@@ -33,3 +33,7 @@ public class App { // Hasmaps require a key and a value
     }
 
 }
+
+// To compare classes to loop over data, you must implement the compareable
+// interface
+// All maps must have unique keys.
